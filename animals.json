@@ -1,0 +1,7 @@
+[
+    {"name": "Will", "type": "human", "housebroken": "True"},
+    {"name": "Dennis", "type": "dog", "housebroken": "True"},
+    {"name": "Phelps", "type": "toad", "housebroken": "False"},
+    {"name": "Hootie", "type": "owl", "housebroken": "False"},
+    {"name": "Vonni", "type": "human", "housebroken": "True"}
+]
