@@ -43,7 +43,7 @@ b = True
 a is b # returns True
 x = [1, 2, 3]
 y = [1, 2, 3]
-x is y # returns Flase
+x is y # returns False
 ```
 
 Use the `in` operator to check if a value is present:
