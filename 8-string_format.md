@@ -3,7 +3,7 @@
 
 Create a string in Python:
 
-`name = 'will`
+`name = 'will'`
 
 Create a string with single quotes in Python:
 
